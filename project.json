@@ -1,0 +1,11 @@
+{
+  "name": { "fi": "Napa ja piirit", "en": "Hub & Circles" },
+  "subtitle": { "fi": "pyöräillen Rovaniemen seudulla", "en": "cycling around Rovaniemi" },
+  "area": [25.40, 66.30, 26.20, 66.70],
+  "languages": ["fi", "en"],
+  "default_language": "fi",
+  "default_theme": "gravel",
+  "nearby_services_m": 500,
+  "itrs_scales": { "exposure": null, "wilderness": null },
+  "feedback": { "github_repo": "mtpajula/hubandcircles-data", "issue_form": "trail-issue.yml" }
+}

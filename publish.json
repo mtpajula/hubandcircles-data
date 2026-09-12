@@ -1,0 +1,14 @@
+{
+  "frontend": { "repo": "mtpajula/hubandcircles-ui", "version": null, "path": "../hubandcircles-ui/dist" },
+  "targets": [
+    { "id": "pages", "type": "github-pages", "repo": "mtpajula/hubandcircles-site" }
+  ],
+  "headers": [
+    { "path": "/assets/*", "cache": "immutable" },
+    { "path": "/data/**/*.webp", "cache": "immutable" },
+    { "path": "/data/**/*.gpx", "cache": "short", "content_type": "application/gpx+xml" },
+    { "path": "/data/catalog.json", "cache": "short" },
+    { "path": "/data/routes/*/route.json", "cache": "short" },
+    { "path": "/index.html", "cache": "none" }
+  ]
+}

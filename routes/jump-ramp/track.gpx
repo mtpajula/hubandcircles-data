@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Jump Ramp</name>
+    <trkseg>
+      <trkpt lat="66.502108" lon="25.787326">
+      </trkpt>
+      <trkpt lat="66.502228" lon="25.787393">
+      </trkpt>
+      <trkpt lat="66.502354" lon="25.787153">
+      </trkpt>
+      <trkpt lat="66.502408" lon="25.787139">
+      </trkpt>
+      <trkpt lat="66.502571" lon="25.787294">
+      </trkpt>
+      <trkpt lat="66.502659" lon="25.787196">
+      </trkpt>
+      <trkpt lat="66.502939" lon="25.788383">
+      </trkpt>
+      <trkpt lat="66.503099" lon="25.789951">
+      </trkpt>
+      <trkpt lat="66.503253" lon="25.790641">
+      </trkpt>
+      <trkpt lat="66.50325" lon="25.791677">
+      </trkpt>
+      <trkpt lat="66.503289" lon="25.791726">
+      </trkpt>
+      <trkpt lat="66.50337" lon="25.791555">
+      </trkpt>
+      <trkpt lat="66.503427" lon="25.79159">
+      </trkpt>
+      <trkpt lat="66.503494" lon="25.792233">
+      </trkpt>
+      <trkpt lat="66.50356" lon="25.792301">
+      </trkpt>
+      <trkpt lat="66.503633" lon="25.792831">
+      </trkpt>
+      <trkpt lat="66.503807" lon="25.793415">
+      </trkpt>
+      <trkpt lat="66.503916" lon="25.79455">
+      </trkpt>
+      <trkpt lat="66.504107" lon="25.795358">
+      </trkpt>
+      <trkpt lat="66.504252" lon="25.795693">
+      </trkpt>
+      <trkpt lat="66.504267" lon="25.796394">
+      </trkpt>
+      <trkpt lat="66.504545" lon="25.79833">
+      </trkpt>
+      <trkpt lat="66.504647" lon="25.799577">
+      </trkpt>
+      <trkpt lat="66.504648" lon="25.80039">
+      </trkpt>
+      <trkpt lat="66.504708" lon="25.800638">
+      </trkpt>
+      <trkpt lat="66.504762" lon="25.800637">
+      </trkpt>
+      <trkpt lat="66.504797" lon="25.800556">
+      </trkpt>
+      <trkpt lat="66.504906" lon="25.799284">
+      </trkpt>
+      <trkpt lat="66.505292" lon="25.797783">
+      </trkpt>
+      <trkpt lat="66.505374" lon="25.797043">
+      </trkpt>
+      <trkpt lat="66.505584" lon="25.796148">
+      </trkpt>
+      <trkpt lat="66.505653" lon="25.795087">
+      </trkpt>
+      <trkpt lat="66.505788" lon="25.794498">
+      </trkpt>
+      <trkpt lat="66.506196" lon="25.793363">
+      </trkpt>
+      <trkpt lat="66.506248" lon="25.793054">
+      </trkpt>
+      <trkpt lat="66.506359" lon="25.792885">
+      </trkpt>
+      <trkpt lat="66.506517" lon="25.792274">
+      </trkpt>
+      <trkpt lat="66.506723" lon="25.791055">
+      </trkpt>
+      <trkpt lat="66.506715" lon="25.790663">
+      </trkpt>
+      <trkpt lat="66.50703" lon="25.789448">
+      </trkpt>
+      <trkpt lat="66.507103" lon="25.788815">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

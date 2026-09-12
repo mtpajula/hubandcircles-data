@@ -1,0 +1,24 @@
+{
+  "id": "rollo-mtb-maastopyorailyreitti",
+  "name": {
+    "fi": "Rollo MTB -maastopyöräilyreitti"
+  },
+  "themes": [
+    "mtb"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Merkitty maalimerkein, suositeltava kiertosuunta myötäpäivään. Ylläpitäjä Ounaksen Pyörä-Pojat ry."
+      }
+    }
+  ],
+  "media": {},
+  "lipas_id": 527767,
+  "maintainer": "municipal"
+}

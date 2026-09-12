@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ounasvaara Trail Center - Törmä</name>
+    <trkseg>
+      <trkpt lat="66.504124" lon="25.779731">
+      </trkpt>
+      <trkpt lat="66.504332" lon="25.780148">
+      </trkpt>
+      <trkpt lat="66.504503" lon="25.78101">
+      </trkpt>
+      <trkpt lat="66.504607" lon="25.780897">
+      </trkpt>
+      <trkpt lat="66.504579" lon="25.781323">
+      </trkpt>
+      <trkpt lat="66.504636" lon="25.781518">
+      </trkpt>
+      <trkpt lat="66.504678" lon="25.781523">
+      </trkpt>
+      <trkpt lat="66.504903" lon="25.7812">
+      </trkpt>
+      <trkpt lat="66.504941" lon="25.781534">
+      </trkpt>
+      <trkpt lat="66.505009" lon="25.781475">
+      </trkpt>
+      <trkpt lat="66.505045" lon="25.781508">
+      </trkpt>
+      <trkpt lat="66.505017" lon="25.781938">
+      </trkpt>
+      <trkpt lat="66.505073" lon="25.782105">
+      </trkpt>
+      <trkpt lat="66.505285" lon="25.782119">
+      </trkpt>
+      <trkpt lat="66.505363" lon="25.782005">
+      </trkpt>
+      <trkpt lat="66.505443" lon="25.781982">
+      </trkpt>
+      <trkpt lat="66.505516" lon="25.78174">
+      </trkpt>
+      <trkpt lat="66.505571" lon="25.781776">
+      </trkpt>
+      <trkpt lat="66.505564" lon="25.782362">
+      </trkpt>
+      <trkpt lat="66.505657" lon="25.782231">
+      </trkpt>
+      <trkpt lat="66.505685" lon="25.782272">
+      </trkpt>
+      <trkpt lat="66.505626" lon="25.782583">
+      </trkpt>
+      <trkpt lat="66.505643" lon="25.782974">
+      </trkpt>
+      <trkpt lat="66.505674" lon="25.782993">
+      </trkpt>
+      <trkpt lat="66.505927" lon="25.782712">
+      </trkpt>
+      <trkpt lat="66.506111" lon="25.782418">
+      </trkpt>
+      <trkpt lat="66.506179" lon="25.78244">
+      </trkpt>
+      <trkpt lat="66.506301" lon="25.782619">
+      </trkpt>
+      <trkpt lat="66.506333" lon="25.783356">
+      </trkpt>
+      <trkpt lat="66.506448" lon="25.783037">
+      </trkpt>
+      <trkpt lat="66.506547" lon="25.783654">
+      </trkpt>
+      <trkpt lat="66.50672" lon="25.783435">
+      </trkpt>
+      <trkpt lat="66.506876" lon="25.783706">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

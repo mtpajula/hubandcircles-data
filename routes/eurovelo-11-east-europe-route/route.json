@@ -1,0 +1,19 @@
+{
+  "id": "eurovelo-11-east-europe-route",
+  "name": {
+    "fi": "EuroVelo 11 - Itä-Euroopan reitti",
+    "en": "EuroVelo 11 - East Europe Route"
+  },
+  "themes": [
+    "gravel",
+    "touring"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [],
+  "media": {},
+  "lipas_id": 615215,
+  "maintainer": "municipal"
+}

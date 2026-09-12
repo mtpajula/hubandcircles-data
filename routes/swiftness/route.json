@@ -1,0 +1,18 @@
+{
+  "id": "swiftness",
+  "name": {
+    "fi": "Ounasvaara Bike Park - Vinha",
+    "en": "Swiftness"
+  },
+  "themes": [
+    "mtb"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [],
+  "media": {},
+  "lipas_id": 619173,
+  "maintainer": "municipal"
+}

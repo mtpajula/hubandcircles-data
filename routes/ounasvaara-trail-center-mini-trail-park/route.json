@@ -1,0 +1,25 @@
+{
+  "id": "ounasvaara-trail-center-mini-trail-park",
+  "name": {
+    "fi": "Ounasvaara Trail Center - Mini Trail Park",
+    "en": "Ounasvaara Trail Center - Mini Trail Park"
+  },
+  "themes": [
+    "mtb"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Mini Trail Park on täydellinen paikka ottaa ensiaskeleet maastopyöräilyn maailmaan. Puiston helppokulkuiset ja turvalliset reitit tarjoavat koko perheelle hauskaa tekemistä – ilman aiempaa kokemusta. Mini Trail Parkissa lapset, nuoret ja aloittelijat voivat harjoitella tasapainoa, jarruttamista ja kurvailua omassa tahdissaan. Selkeät linjat, matalat kumpareet ja pelottamattomat kaarteet tekevät ajamisesta motivoivaa ja palkitsevaa.\nTäällä into pyöräilyyn syttyy kuin itsestään – tule kokeilemaan ja löydä onnistumisen ilo!"
+      }
+    }
+  ],
+  "media": {},
+  "lipas_id": 619226,
+  "maintainer": "municipal"
+}

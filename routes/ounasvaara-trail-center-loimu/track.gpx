@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Ounasvaara Trail Center - Loimu</name>
+    <trkseg>
+      <trkpt lat="66.50211" lon="25.787303">
+      </trkpt>
+      <trkpt lat="66.502234" lon="25.787273">
+      </trkpt>
+      <trkpt lat="66.50239" lon="25.78623">
+      </trkpt>
+      <trkpt lat="66.502406" lon="25.785812">
+      </trkpt>
+      <trkpt lat="66.502722" lon="25.784661">
+      </trkpt>
+      <trkpt lat="66.503038" lon="25.781923">
+      </trkpt>
+      <trkpt lat="66.503047" lon="25.781587">
+      </trkpt>
+      <trkpt lat="66.502958" lon="25.780845">
+      </trkpt>
+      <trkpt lat="66.503101" lon="25.779893">
+      </trkpt>
+      <trkpt lat="66.503202" lon="25.779712">
+      </trkpt>
+      <trkpt lat="66.503518" lon="25.779643">
+      </trkpt>
+      <trkpt lat="66.503567" lon="25.779669">
+      </trkpt>
+      <trkpt lat="66.503652" lon="25.779917">
+      </trkpt>
+      <trkpt lat="66.503828" lon="25.780054">
+      </trkpt>
+      <trkpt lat="66.504176" lon="25.779658">
+      </trkpt>
+      <trkpt lat="66.504253" lon="25.779492">
+      </trkpt>
+      <trkpt lat="66.504415" lon="25.778541">
+      </trkpt>
+      <trkpt lat="66.504495" lon="25.778913">
+      </trkpt>
+      <trkpt lat="66.504532" lon="25.779621">
+      </trkpt>
+      <trkpt lat="66.504568" lon="25.779649">
+      </trkpt>
+      <trkpt lat="66.504846" lon="25.778086">
+      </trkpt>
+      <trkpt lat="66.504873" lon="25.777428">
+      </trkpt>
+      <trkpt lat="66.504993" lon="25.777057">
+      </trkpt>
+      <trkpt lat="66.505064" lon="25.776557">
+      </trkpt>
+      <trkpt lat="66.505174" lon="25.775529">
+      </trkpt>
+      <trkpt lat="66.505166" lon="25.775108">
+      </trkpt>
+      <trkpt lat="66.505577" lon="25.77334">
+      </trkpt>
+      <trkpt lat="66.505627" lon="25.772431">
+      </trkpt>
+      <trkpt lat="66.505867" lon="25.771228">
+      </trkpt>
+      <trkpt lat="66.505915" lon="25.771155">
+      </trkpt>
+      <trkpt lat="66.505977" lon="25.771264">
+      </trkpt>
+      <trkpt lat="66.505999" lon="25.772135">
+      </trkpt>
+      <trkpt lat="66.506008" lon="25.775658">
+      </trkpt>
+      <trkpt lat="66.506169" lon="25.777935">
+      </trkpt>
+      <trkpt lat="66.506143" lon="25.779246">
+      </trkpt>
+      <trkpt lat="66.506179" lon="25.779283">
+      </trkpt>
+      <trkpt lat="66.506198" lon="25.779254">
+      </trkpt>
+      <trkpt lat="66.506327" lon="25.778734">
+      </trkpt>
+      <trkpt lat="66.506466" lon="25.777732">
+      </trkpt>
+      <trkpt lat="66.506471" lon="25.778891">
+      </trkpt>
+      <trkpt lat="66.506514" lon="25.778915">
+      </trkpt>
+      <trkpt lat="66.506706" lon="25.777244">
+      </trkpt>
+      <trkpt lat="66.506822" lon="25.777912">
+      </trkpt>
+      <trkpt lat="66.50682" lon="25.778355">
+      </trkpt>
+      <trkpt lat="66.506791" lon="25.779074">
+      </trkpt>
+      <trkpt lat="66.506689" lon="25.779645">
+      </trkpt>
+      <trkpt lat="66.506683" lon="25.780257">
+      </trkpt>
+      <trkpt lat="66.506714" lon="25.780417">
+      </trkpt>
+      <trkpt lat="66.506988" lon="25.780449">
+      </trkpt>
+      <trkpt lat="66.507076" lon="25.780507">
+      </trkpt>
+      <trkpt lat="66.507106" lon="25.780601">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

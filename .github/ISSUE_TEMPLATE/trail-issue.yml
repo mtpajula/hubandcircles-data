@@ -1,0 +1,33 @@
+name: Reitti-ilmoitus / Route report
+description: Ilmoita reitin ongelmasta tai virheestä tiedoissa. Report a problem on a route or an error in its data.
+title: "[route] "
+labels: ["route-report"]
+body:
+  - type: input
+    id: route
+    attributes:
+      label: Reitti / Route
+      description: Reitin nimi tai osoite sivulla. Route name or page address.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Mistä on kyse? / What is it about?
+      options:
+        - Este tai vaurio reitillä / Obstacle or damage on the route
+        - Virhe reitin tiedoissa / Error in route data
+        - Muu / Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Kuvaus / Description
+      description: Missä kohtaa (km, paikannimi tai koordinaatit) ja mitä havaitsit. Where (km, place name or coordinates) and what you saw.
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Havaintopäivä / Date observed

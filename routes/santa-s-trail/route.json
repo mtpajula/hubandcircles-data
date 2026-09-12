@@ -1,0 +1,25 @@
+{
+  "id": "santa-s-trail",
+  "name": {
+    "fi": "Tonttumetsän pyöräilypuisto -Santa's Trail",
+    "en": "Santa's Trail"
+  },
+  "themes": [
+    "mtb"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Joulupukin Pajakylän Tonttumetsässä risteilee neljä lyhyttä, selkeästi merkittyä maastopyöräreittiä. Kolme niistä – Loiva, Hupi ja Lysti – ovat yksisuuntaisia, kun taas kaksisuuntainen Luppo yhdistää polut toisiinsa. Reitit (0,5–1,5 km) kulkevat satumaisen metsikön kumpuilevassa maastossa, missä pyöräilijät pääsevät nauttimaan loivista kaarteista, kalliopinnoista ja tasaisesta sorapohjasta. Uudet polut yhdistyvät sujuvasti Ounasvaaran hiihtostadionille ja Rovaniemen keskustaan kevyen liikenteen väyliä pitkin, mikä tekee niistä helposti saavutettavia niin paikallisille kuin matkailijoillekin. Reittiopastus löytyy myös sähköisenä Etiäinen palvelusta (etiainen.fi). Tonttumetsän pyöräilypuistossa ei ole saatavilla juomapistettä, joten varaa vesipullo mukaan reitille."
+      }
+    }
+  ],
+  "media": {},
+  "lipas_id": 618973,
+  "maintainer": "municipal"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "arctic-by-cycle-santa-s-western-gravel-loop",
+  "name": {
+    "fi": "Arctic by Cycle: Santa's Western Gravel Loop",
+    "en": "Arctic by Cycle: Santa's Western Gravel Loop"
+  },
+  "themes": [
+    "gravel",
+    "touring"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [],
+  "media": {},
+  "lipas_id": 613791,
+  "maintainer": "municipal"
+}

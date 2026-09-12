@@ -1,0 +1,19 @@
+{
+  "id": "arctic-by-cycle-central-lapland-gravel-loop",
+  "name": {
+    "fi": "Arctic by Cycle: Central Lapland Gravel Loop",
+    "en": "Arctic by Cycle: Central Lapland Gravel Loop"
+  },
+  "themes": [
+    "gravel",
+    "touring"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "track": "track.gpx",
+  "sections": [],
+  "media": {},
+  "lipas_id": 613762,
+  "maintainer": "municipal"
+}
