@@ -10,13 +10,52 @@
     "summer"
   ],
   "track": "track.gpx",
+  "cover_image": "media/img-0906.jpeg",
+  "hardest_section": {
+    "media": "media/img-0906.jpeg",
+    "km": 7.1,
+    "description": {
+      "fi": "Golfkentältä Ounasvaaran päälle johtava osuus",
+      "en": "The section leading from the golf course to the top of Ounasvaara"
+    }
+  },
+  "segments": [],
   "sections": [
     {
       "type": "text",
       "content": {
         "fi": "Merkitty maalimerkein, suositeltava kiertosuunta myötäpäivään. Ylläpitäjä Ounaksen Pyörä-Pojat ry."
       }
+    },
+    {
+      "type": "gallery",
+      "media": [
+        "media/img-0906.jpeg",
+        "media/img-2768.jpeg",
+        "media/img-2770.jpeg"
+      ]
     }
   ],
-  "media": {}
+  "media": {
+    "media/img-0906.jpeg": {
+      "author": "Mikko Pajula",
+      "license": "CC BY 4.0"
+    },
+    "media/img-2768.jpeg": {
+      "author": "Mikko Pajula",
+      "license": "CC BY 4.0"
+    },
+    "media/img-2770.jpeg": {
+      "author": "Mikko Pajula",
+      "license": "CC BY 4.0"
+    }
+  },
+  "maintainer": "non_municipal",
+  "non_municipal_reasons": [
+    "unmaintained"
+  ],
+  "maintenance_note": {
+    "fi": "Reittiä ei ole ylläpidetty vuosiin. Polku on löydettävissä, mutta merkinnät ovat kuluneet pääosin pois.",
+    "en": "The trail hasn't been maintained in years. You can still find the path, but most of the markings have worn away."
+  }
 }
