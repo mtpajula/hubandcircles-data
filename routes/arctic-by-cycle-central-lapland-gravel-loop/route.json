@@ -11,9 +11,17 @@
   "seasons": [
     "summer"
   ],
+  "difficulty": "demanding",
   "track": "track.gpx",
-  "sections": [],
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Keski-Lapin sorareitti on 1 140 km pitkä pyöräretkeilyreitti, joka yhdistää osan Etelä- ja Keski-Lapin pyöräretkeilyreittien ulkoreiteistä yhdeksi eeppiseksi 13–16 päivän seikkailuksi. Reitti tarjoaa laajan valikoiman lappilaista luontoa ja kulttuuria Ruotsista Venäjälle ulottuvalla alueella, ja se sisältää upeita luonnonsuojelualueita sekä lukuisia erämaamajoja ja nuotiopaikkoja napapiirin yläpuolella. Suurimmalla osalla reittiä on erinomaiset palvelut ja runsaasti mahdollisuuksia täydentää varusteita, mutta reitin syrjäisimmällä osuudella on varauduttava useiden päivien ruokahuoltoon omatoimisesti, mikä tekee reitistä haastavan eikä se sovi kaikille.\n\nTämä reitti on osa laajempaa kierrosta. Eteläinen osa.",
+        "en": "The Central Lapland Gravel Loop is an 1140km bikepacking route connecting some of the outer lines of the southern and central Lapland bikepacking routes into an epic 13-16 day odyssey. The offers a wide selection of Lappish nature and culture all the way from Sweden to Russia with a fantastic selection of protected nature and numerous wilderness shelters and campfire sites, above the Arctic Circle. Most of the route has great services and frequent restocking opportunities, but the most remote part of the route needs food-wise self-sufficiency for multiple days, which makes the route challenging and not suitable for all.\n\nThis route is part of a larger loop. Southern part."
+      }
+    }
+  ],
   "media": {},
-  "lipas_id": 613762,
-  "maintainer": "municipal"
+  "maintainer": "non_municipal"
 }
