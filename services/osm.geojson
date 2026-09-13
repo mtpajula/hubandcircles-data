@@ -1,0 +1,5065 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10155481536",
+        "name": {
+          "fi": "HAAWE Boutique Apart Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734357,
+          66.502575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10571221209",
+        "name": {
+          "fi": "Burger King"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727624,
+          66.503136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10710743005",
+        "name": {
+          "fi": "Revontulilaavu",
+          "en": "Northern lights lean-to shelter"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72152,
+          66.511571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10727795969",
+        "name": {
+          "fi": "Leirikeskus"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6414,
+          66.468586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10735262886",
+        "name": {
+          "fi": "Curry Masala"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.currymasala.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.728132,
+          66.501681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11453799550",
+        "name": {
+          "fi": "All About Salmon"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.allaboutsalmon.fi/",
+        "opening_hours": "Mo-su 12:00-17:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.845587,
+          66.543811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11472382128",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.015503,
+          66.578491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11472399021",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.737771,
+          66.568831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11592226418",
+        "name": {
+          "fi": "Naava Café"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "url": "https://www.naava-adventures.fi/",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734266,
+          66.504634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11626670086",
+        "name": {
+          "fi": "Konditoria Kahvila Antinkaapo"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "url": "https://www.antinkaapo.com",
+        "opening_hours": "Mo-Fr 07:30-17:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.726307,
+          66.499683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11821685899",
+        "name": {
+          "fi": "ScanBurger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.717456,
+          66.497403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12151769481",
+        "name": {
+          "fi": "Hanki"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.729486,
+          66.497734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12151773811",
+        "name": {
+          "fi": "Ski & Bike Shop"
+        },
+        "category": "bike_repair",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727315,
+          66.500585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1216543527",
+        "name": {
+          "fi": "Pizzeria Revontuli Saarenkylä"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.78044,
+          66.518628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12171390901",
+        "name": {
+          "fi": "beebike"
+        },
+        "category": "bike_repair",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.722971,
+          66.498503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12398416434",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.782784,
+          66.515869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12501332357",
+        "name": {
+          "fi": "Postmaster Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://staylapland.com/postmaster-hotel/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.713242,
+          66.497779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12511846692",
+        "name": {
+          "fi": "Espresso House"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730155,
+          66.502271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12511846696",
+        "name": {
+          "fi": "Ozaki Teppanyaki"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa 12:00-21:00; Su 12:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.729732,
+          66.502067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12511846697",
+        "name": {
+          "fi": "Robert's Coffee"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73151,
+          66.50265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12545967766",
+        "name": {
+          "fi": "Restaurant Kota"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://apukkaresort.fi/food-drink/restaurant-kota",
+        "opening_hours": "Mo-Su 18:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.018361,
+          66.577887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12735423401",
+        "name": {
+          "fi": "K-Market"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-kairatie",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.705743,
+          66.508869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13022747622",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.852097,
+          66.552716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13261228299",
+        "name": {
+          "fi": "Saarenkylä Turkinpippuri"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://saarenkylanturkinpippuri.fi/",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 11:00-22:00; Su 11:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.781664,
+          66.520629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13317199104",
+        "name": {
+          "fi": "Scan Burger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 11:00-19:00; Su 11:00-18:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.455225,
+          66.648972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13334203960",
+        "name": {
+          "fi": "K-Market Ylikylä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-ylikyla",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.676098,
+          66.530513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13335810616",
+        "name": {
+          "fi": "Silver Birch Resort"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://thesilverbirchresort.com/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.132721,
+          66.46805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13343548324",
+        "name": {
+          "fi": "Subway"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Th 09:00-23:00, Fr 09:00-05:00, Sa 10:00-05:00, Su 11:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730221,
+          66.501953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13347179801",
+        "name": {
+          "fi": "Ravintoa Milan"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://ravintola-milan.fi/",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.659445,
+          66.48985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13347216301",
+        "name": {
+          "fi": "HelmiSimpukka Saarenkylä"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://helmisimpukka.fi/asemat/rovaniemi-saarenkyla-napapiirintie-2",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa 07:00-21:00; Su 08:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.785743,
+          66.515808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13356239640",
+        "name": {
+          "fi": "Hook Rovaniemi"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.ravintolahook.fi/en/hook-rovaniemi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73224,
+          66.502271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13372146728",
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.722517,
+          66.502275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13372146729",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.721885,
+          66.502352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13398091031",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466141,
+          66.64426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13415615085",
+        "name": {
+          "fi": "Café Snow"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.715068,
+          66.499068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13432360244",
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.671129,
+          66.597184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13432391840",
+        "name": {
+          "fi": "Kotatieva"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.67592,
+          66.598181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13432413265",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.675682,
+          66.597928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13544714001",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.732553,
+          66.498292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13634075950",
+        "name": {
+          "fi": "Kotimaailma Aparthotel Snowflake Suites"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.kotimaailma.com/fi/kaupungit/kotimaailma-aparthotelli-snowflake-suites",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733539,
+          66.503612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13656990301",
+        "name": {
+          "fi": "Forenom Serviced Apartments"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734787,
+          66.503331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13851871190",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.706562,
+          66.49623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13960616701",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.754794,
+          66.518473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/14003201302",
+        "name": {
+          "fi": "Kotipizza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.755268,
+          66.518264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/14121743440",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.763255,
+          66.571913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1433594862",
+        "name": {
+          "fi": "Ravintola Thulia"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.787053,
+          66.508782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1434674015",
+        "name": {
+          "fi": "Pöykkolanpiste"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.poykkolanpiste.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.744082,
+          66.479112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1477716447",
+        "name": {
+          "fi": "Karhukumpu laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.125905,
+          66.589368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1668434662",
+        "name": {
+          "fi": "Rovaniemi Café"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.828238,
+          66.558341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1693033465",
+        "name": {
+          "fi": "HelmiSimpukka Rovaniemi Teollisuustie"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa 07:00-21:00; Su 08:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.655914,
+          66.489249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1693033474",
+        "name": {
+          "fi": "HelmiSimpukka Rovaniemi Napapiiri"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://helmisimpukka.fi/asemat/rovaniemi-napapiiri",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.843662,
+          66.5445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1929016586",
+        "name": {
+          "fi": "Memo's"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "http://memos-restaurant.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.699208,
+          66.486925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1929023275",
+        "name": {
+          "fi": "Paras Pizza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "http://www.paraspizza.com/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.755403,
+          66.519186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1930132572",
+        "name": {
+          "fi": "Cafe & Bar 21"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.cafebar21.fi/",
+        "opening_hours": "Mon-Thu 08:00-22:00 Fri 08:00-23:00 Sat 08:00-23:00 Sun 08:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72708,
+          66.501275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1930256657",
+        "name": {
+          "fi": "Amica Felli"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.714721,
+          66.485234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2140261287",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.900185,
+          66.457511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2140261288",
+        "name": {
+          "fi": "Kurijärvi laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.900035,
+          66.457447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2351757094",
+        "name": {
+          "fi": "Sale"
+        },
+        "category": "shop",
+        "source": "osm",
+        "opening_hours": "Mo-Sa 07:00-00:00; Su 09:00-00:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.714676,
+          66.484347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2351759884",
+        "name": {
+          "fi": "Turkinpippuri"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.rovaniementurkinpippuri.fi/?ved=2ahUKEwi7_vm73vyQAxVmBxAIHQeAJIAQgU96BAgWEAQ",
+        "opening_hours": "Mo-Th 10:30-24:00, Fr,Sa 10:30-04:30, Su 11:00-24:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730678,
+          66.501671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2351762427",
+        "name": {
+          "fi": "Wakkanai"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733817,
+          66.501705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2407233513",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.742814,
+          66.497705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2407233514",
+        "category": "toilet",
+        "source": "osm",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.742109,
+          66.497097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2428267593",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.794048,
+          66.625606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2450295326",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.786611,
+          66.629094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/282471585",
+        "name": {
+          "fi": "Alvari"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.704762,
+          66.498305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/282471586",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.705712,
+          66.498265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/282473116",
+        "name": {
+          "fi": "Sky Kitchen & View"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.787948,
+          66.502057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/282473902",
+        "name": {
+          "fi": "Rosso"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730775,
+          66.502033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/282473904",
+        "name": {
+          "fi": "Sale"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.s-kaupat.fi/myymala/sale-lapinmaa/666708987",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730681,
+          66.501911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2860413470",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.180219,
+          66.617621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2860413492",
+        "name": {
+          "fi": "Vikaköngäs"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.188325,
+          66.619462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/292014971",
+        "name": {
+          "fi": "Hesburger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.hesburger.fi/ravintolat?tid=194",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.755124,
+          66.518143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/292014972",
+        "name": {
+          "fi": "Hesburger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.hesburger.fi/ravintolat/?tid=87",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.729907,
+          66.502249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/292014973",
+        "name": {
+          "fi": "Hesburger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.hesburger.fi/ravintolat/?tid=288",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.688949,
+          66.492062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3319733080",
+        "name": {
+          "fi": "Restaurant TEKUILA"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.721551,
+          66.481039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/352756706",
+        "name": {
+          "fi": "Rollo Rafla"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Th 10:30-22:00, Fr,Sa 11:00-24:00, Su 11:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72235,
+          66.504129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/352757441",
+        "name": {
+          "fi": "Osaka Teppanyaki"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:30-20:30; Sa-Su 11:30-20:30",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.726194,
+          66.503003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/352757612",
+        "name": {
+          "fi": "K-Supermarket"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-supermarket-rinteenkulma",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa 07:00-23:00; Su 09:00-23:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.724854,
+          66.502617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/352757760",
+        "name": {
+          "fi": "Scandic Rovaniemi City"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.scandichotels.fi/hotellit/suomi/rovaniemi/scandic-rovaniemi-city",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.726807,
+          66.502727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3581077441",
+        "name": {
+          "fi": "Niittypirtti päivätupa"
+        },
+        "category": "hut",
+        "source": "osm",
+        "url": "https://www.luontoon.fi/niittypirttipaivatupa",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.191324,
+          66.59057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3639922869",
+        "name": {
+          "fi": "Arctic Light Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.arcticlighthotel.fi",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734572,
+          66.50146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3789283523",
+        "name": {
+          "fi": "Cafe Picnic"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "url": "https://www.picnic.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.722603,
+          66.502785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3824984605",
+        "name": {
+          "fi": "Haarikka"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Th 16:00-24:00, Fr,Sa 16:00-02:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73218,
+          66.502141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3824984606",
+        "name": {
+          "fi": "Marmaris"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.725253,
+          66.501693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3848220354",
+        "name": {
+          "fi": "K-Market"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-rovakatu",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa 08:00-23:00; Su 09:00-23:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.725121,
+          66.497826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4020151880",
+        "name": {
+          "fi": "Vikakönkään laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.etiainen.fi/gpsalbum/Vikakonkaan-laavu/21ndifjx/e4202c6a-ea9e-4416-9f99-7dc28f57e78e",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.188096,
+          66.619447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4127450359",
+        "name": {
+          "fi": "Vaattunki Wilderness Resort"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.safartica.com/wilderness-resort/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.119333,
+          66.594368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4183599719",
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.616427,
+          66.596149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4183669635",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466359,
+          66.645627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4183669687",
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.455282,
+          66.64891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4183691598",
+        "name": {
+          "fi": "Sinetän Kyläkrouvi"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.45772,
+          66.648938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4185375877",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.640206,
+          66.585993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4257953589",
+        "name": {
+          "fi": "The Blueberry"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.713059,
+          66.510007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201522",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.183161,
+          66.592312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201523",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.183395,
+          66.592248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201560",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.119645,
+          66.590381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201561",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.119234,
+          66.590451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201562",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.126422,
+          66.589342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201693",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.19133,
+          66.590693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336220386",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.106282,
+          66.577212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336220387",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.105943,
+          66.57729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336704640",
+        "name": {
+          "fi": "Ukkoharri laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.180577,
+          66.617667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336881980",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.08722,
+          66.621764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336903769",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.118841,
+          66.595484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075060",
+        "name": {
+          "fi": "Hotel Santa Claus"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://santashotels.fi/en/hotels/rovaniemi-hotel-santa-claus/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.732318,
+          66.502757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075064",
+        "name": {
+          "fi": "Fransmanni"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73555,
+          66.502073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075066",
+        "name": {
+          "fi": "Sokos Hotel Vaakuna"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.sokoshotels.fi/fi/rovaniemi/sokos-hotel-vaakuna",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73614,
+          66.502028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075067",
+        "name": {
+          "fi": "Amarillo"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-02:00; Sa 12:00-02:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734894,
+          66.502184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075075",
+        "name": {
+          "fi": "Glena"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73211,
+          66.502006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075078",
+        "name": {
+          "fi": "St1 Helmisimpukka Rovaniemi Erottaja",
+          "en": "St1 Rovaniemi Erottaja"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://st1.fi/asemat/rovaniemi-erottaja",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.717533,
+          66.497952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434075088",
+        "name": {
+          "fi": "K-Market Ounasmetsä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-ounasmetsa",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.780584,
+          66.491608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134005",
+        "name": {
+          "fi": "Scandic Polar"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.scandichotels.fi/hotellit/suomi/rovaniemi/scandic-polar",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733201,
+          66.501723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134020",
+        "name": {
+          "fi": "Kauppayhtiö / Pure Burger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.kauppayhtio.fi/fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734766,
+          66.502877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134021",
+        "name": {
+          "fi": "Coffee House"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-20:00; Su 11:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730841,
+          66.502121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134027",
+        "name": {
+          "fi": "Arctic City Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.arcticcityhotel.fi/",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.729636,
+          66.501427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134030",
+        "name": {
+          "fi": "Monte Rosa"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.monterosa.fi/",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.729437,
+          66.501149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134031",
+        "name": {
+          "fi": "Nili"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://nili.fi/en/mainpage-english/",
+        "opening_hours": "Mo-Fr 16:00-23:00; Sa 14:00-23:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734361,
+          66.501915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134032",
+        "name": {
+          "fi": "Hai Long"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:30-21:30; Sa 11:30-21:00; Su 12:00-20:30",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734218,
+          66.502424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134033",
+        "name": {
+          "fi": "Xiang Long"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa,Su 12:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727587,
+          66.502871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/434134079",
+        "name": {
+          "fi": "Ravintola Valdemari"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://valdemari.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.745594,
+          66.50177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/442347663",
+        "name": {
+          "fi": "Kotipizza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa-Su 11:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.735211,
+          66.501832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/451933284",
+        "name": {
+          "fi": "K-Market Toriportti"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-market.fi/kaupat/toriportti/",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.712721,
+          66.499977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/451933286",
+        "name": {
+          "fi": "Torikeidas"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://torikeidas.fi/",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-02:00; Su 11:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.713021,
+          66.499818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/453832921",
+        "name": {
+          "fi": "Valtakadun autogrilli"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:00-22:00,Sa 11:00-22:00,Su 11:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731116,
+          66.498171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/456766202",
+        "name": {
+          "fi": "Matkustajakoti Outa"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.724708,
+          66.499337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4799455321",
+        "name": {
+          "fi": "K-Market Korkalovaara"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-korkalovaara",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.667902,
+          66.512177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4799472521",
+        "name": {
+          "fi": "Sale"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.s-kaupat.fi/myymala/sale-korkalovaara/625921564",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.677529,
+          66.511387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4969114829",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.024543,
+          66.582076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4987801070",
+        "name": {
+          "fi": "Joulupukin Ravintola",
+          "en": "Christmas House Restaurant & Coffee Bar"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.santaclausholidayvillage.fi/en/restaurants/christmas-house-restaurant-and-coffee-bar/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.842415,
+          66.543002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/530561032",
+        "name": {
+          "fi": "Arktikum Café"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.725464,
+          66.507633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5329269059",
+        "name": {
+          "fi": "Rakka"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.rakka.fi/",
+        "opening_hours": "Mo-Fr 10:30-14:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.709091,
+          66.494118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951448",
+        "name": {
+          "fi": "Sinettajokisuu_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.482934,
+          66.64655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951449",
+        "name": {
+          "fi": "Sinettajoki laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466027,
+          66.645731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951466",
+        "name": {
+          "fi": "Olkkajarvi"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.025045,
+          66.582418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951468",
+        "name": {
+          "fi": "Ounaspaviljonki laavu",
+          "en": "Ounaspaviljonki Lean-to"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.743071,
+          66.519544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951470",
+        "name": {
+          "fi": "Niskanpera"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.63162,
+          66.444181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951473",
+        "name": {
+          "fi": "Niilo"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.475018,
+          66.408571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951481",
+        "name": {
+          "fi": "Luonuajoki laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.40646,
+          66.686607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951484",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.797454,
+          66.512686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951487",
+        "name": {
+          "fi": "Kuninkaan laavu",
+          "en": "Santavaara Lean-to"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.rovaniemi.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.696986,
+          66.56566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951493",
+        "name": {
+          "fi": "Kemila laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.067006,
+          66.459842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951495",
+        "name": {
+          "fi": "Jussilanvaara_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.470616,
+          66.438543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951498",
+        "name": {
+          "fi": "Alakorkalo laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.625422,
+          66.476555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951500",
+        "name": {
+          "fi": "Erasaari_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.408421,
+          66.40215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951501",
+        "name": {
+          "fi": "Hirvasoja laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.439482,
+          66.428644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5370990040",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.736137,
+          66.471474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5647897122",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.46275,
+          66.399477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5647904721",
+        "name": {
+          "fi": "Hiidenkota"
+        },
+        "category": "hut",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.462505,
+          66.399548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5759889854",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.625247,
+          66.477217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5877993985",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.747456,
+          66.45583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5971849576",
+        "name": {
+          "fi": "Scandic Pohjanhovi"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.scandichotels.fi/hotellit/suomi/rovaniemi/scandic-pohjanhovi",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.737652,
+          66.50218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6049808585",
+        "name": {
+          "fi": "Mountainbike Center"
+        },
+        "category": "bike_repair",
+        "source": "osm",
+        "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-14:00; Su off",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72817,
+          66.500396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6049808586",
+        "name": {
+          "fi": "Ruokahuone Mariza",
+          "en": "Restaurant Mariza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.ruokahuonemariza.fi/",
+        "opening_hours": "Mo-Fr 10:00-14:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731402,
+          66.499981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6049808587",
+        "name": {
+          "fi": "Martin pyöräkorjaamo",
+          "en": "Martti's Bike Repair"
+        },
+        "category": "bike_repair",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731035,
+          66.499525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6141272290",
+        "name": {
+          "fi": "Olkkajärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.etiainen.fi/gpsalbum/Olkkajarven-laavu/21ndifjx/da781138-2ec6-48a4-a75f-b3f1868e69eb",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.129761,
+          66.534112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6156543546",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.488787,
+          66.644885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6251671490",
+        "name": {
+          "fi": "Restaurant Roka"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://ravintolaroka.fi",
+        "opening_hours": "Fr, Sa 12:00-22:00; Mo-Th, Su 12:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.725516,
+          66.501664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6352619308",
+        "name": {
+          "en": "Cafe Rovaniemi"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727898,
+          66.501787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6421058285",
+        "name": {
+          "fi": "Dazhonghua",
+          "en": "Da Zhong Hua"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Nov-Mar: Mo-Fr 11:00-22:00; Nov-Mar: Sa-Su 12:00-22:00; Apr-Sep: Mo-Th 11:09-21:09; Apr-Sep: Fr 11:00-22:00; Apr-Sep: Sa 12:09-22:09; Apr-Sep: Su 12:09-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.718613,
+          66.505348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6467723633",
+        "name": {
+          "fi": "Pure Pizza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.kauppayhtio.fi/fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734611,
+          66.502772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6467723634",
+        "name": {
+          "fi": "Restaurant Yuca"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.yuca.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727042,
+          66.501155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6472038286",
+        "name": {
+          "fi": "Salmijärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.756238,
+          66.485509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6472038288",
+        "name": {
+          "fi": "Rautiojärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.706723,
+          66.452562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6647125108",
+        "name": {
+          "fi": "Hotel Rudolf"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.santashotels.fi/en/hotelrudolf",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.71895,
+          66.505212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6647625991",
+        "name": {
+          "fi": "Ounasvaaran luontopolun laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.802983,
+          66.493495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6653552440",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.796091,
+          66.500389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/677281039",
+        "name": {
+          "fi": "Rovahotelli"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.581967,
+          66.453428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/677283603",
+        "name": {
+          "fi": "Gaissa"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://santashotels.fi/lappiravintola-gaissa/",
+        "opening_hours": "Mo-Fr 07:00-10:00, 17:00-21:30; Sa-Su 08:00-11:00, 17:00-21:30",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73187,
+          66.502627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/677283912",
+        "name": {
+          "fi": "Zoomup"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7323,
+          66.502685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7403184773",
+        "name": {
+          "fi": "Lapland Hotels Sky Ounasvaara"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.laplandhotels.com/en/hotels-and-destinations/rovaniemi/lapland-hotels-sky-ounasvaara",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.788823,
+          66.501886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7574438638",
+        "name": {
+          "fi": "Rakas Restaurant & Bar"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.rakasrestaurant.com/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.800616,
+          66.539353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7620184566",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.570502,
+          66.464419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7726974932",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.785291,
+          66.628797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7727010560",
+        "name": {
+          "fi": "Nabo"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733996,
+          66.501268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7740546231",
+        "name": {
+          "fi": "Taukopaikka"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.072647,
+          66.451918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7740958741",
+        "name": {
+          "fi": "Sweet Home"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.755303,
+          66.507402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7743607154",
+        "name": {
+          "fi": "Kotipizza"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo,Tu 10:30-21:00; We-Sa 10:30-21:30; Su 11:30-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.712635,
+          66.500685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7746289941",
+        "name": {
+          "fi": "Presso"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.689166,
+          66.49218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7746397709",
+        "name": {
+          "fi": "Saigon Noodle Bar"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://saigonnoodlebar-rovaniemi.com/",
+        "opening_hours": "Tu-Fr 11:00-20:00; Sa-Su 12:00-20:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727942,
+          66.501593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7746397712",
+        "name": {
+          "fi": "Rang Mahal"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.rangmahal.fi/",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 12:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727897,
+          66.50152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7746397719",
+        "name": {
+          "fi": "Pancho Villa"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.727778,
+          66.502484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7746640456",
+        "name": {
+          "fi": "Bord"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "Mo-Su 18:00-22:30",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72721,
+          66.502916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7749789578",
+        "name": {
+          "fi": "Subway"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.754981,
+          66.518051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7749984216",
+        "name": {
+          "fi": "Restaurant Aitta"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://apukkaresort.fi/food-drink",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.016202,
+          66.578303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8068151414",
+        "name": {
+          "fi": "Restaurant Gustav",
+          "en": "Gustav Kitchen & Bar"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.gustavkitchenbar.fi/",
+        "opening_hours": "Tu-Th 11:00-23:00; Fr 11:00-00:00; Sa 14:00-00:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733012,
+          66.502431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8068151422",
+        "name": {
+          "fi": "Korundi Cafe"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "opening_hours": "Tu-Su 11:00-15:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.718224,
+          66.500635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8089068066",
+        "name": {
+          "fi": "Hotelli Aakenus"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.717282,
+          66.505739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8150772046",
+        "name": {
+          "fi": "Tottohissi cafe"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.805243,
+          66.50712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8150772047",
+        "name": {
+          "fi": "Ravintola Alpenjäger",
+          "en": "Restaurant Alpenjäger"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.786862,
+          66.507567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8261659867",
+        "name": {
+          "fi": "Tori Falafel"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.714101,
+          66.500596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8308197318",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.753855,
+          66.468328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8308197319",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.747624,
+          66.455765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150321",
+        "name": {
+          "fi": "Kesärafla Sauna"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.laplandhotels.com/fi/hotellit-ja-kohteet/rovaniemi/lapland-hotels-ounasvaara-chalets/kesarafla-sauna",
+        "opening_hours": "Jun-Aug",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.789006,
+          66.511124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150441",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.836631,
+          66.501431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150442",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.83126,
+          66.499765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150471",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846708,
+          66.49927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150756",
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.808044,
+          66.506009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8319202531",
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.743064,
+          66.497335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8412631728",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.786816,
+          66.507626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/846347328",
+        "name": {
+          "fi": "Väiskin laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.867156,
+          66.484759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/846347329",
+        "name": {
+          "fi": "Ounasvaaran näkötornin laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.766927,
+          66.502228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8493861170",
+        "name": {
+          "fi": "Mellavaaran laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.53597,
+          66.528601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191948951",
+        "name": {
+          "fi": "Three Elves ravintola",
+          "en": "Three Elves Restaurant"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.santaclausholidayvillage.fi/en/restaurants/three-elves-restaurant-en-us/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.84465,
+          66.542951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949011",
+        "name": {
+          "fi": "Santa´s Pizza & Burger"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.santaspizzaburger.fi",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.851348,
+          66.544373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949012",
+        "name": {
+          "fi": "Ice Bar and Snow Restaurant"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846145,
+          66.542395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949013",
+        "name": {
+          "fi": "Café Ensilumi"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.845966,
+          66.54256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949152",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.847776,
+          66.544049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949173",
+        "name": {
+          "fi": "Reindeer Cafe Restaurant Sirmakko"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.84842,
+          66.544065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949174",
+        "name": {
+          "fi": "Loft Café"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "url": "https://loftcafe.fi/fi/loft-cafe-kahvila/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.848446,
+          66.543955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949182",
+        "name": {
+          "fi": "Ravintola Napatapuli",
+          "en": "Napatapuli Restaurant"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://napatapuli.com",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846714,
+          66.543854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9191949247",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.848758,
+          66.544049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9192012960",
+        "name": {
+          "fi": "Restaurant Arctic Eye"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://santashotels.fi/en/restaurant-arctic-eye/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.861425,
+          66.543176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/925653130",
+        "name": {
+          "fi": "Siipiravintola Wingston"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.725601,
+          66.501314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9693475777",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.850663,
+          66.54596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9778083880",
+        "name": {
+          "fi": "Varuskuntaravintola Somero"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://leijonacatering.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.793758,
+          66.55633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9843865245",
+        "name": {
+          "fi": "Neste Rovaniemi Erottaja"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "url": "https://www.neste-erottaja.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.717436,
+          66.500161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:relation/15069265",
+        "name": {
+          "fi": "Apukka Resort - Glass Igloos Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.016487,
+          66.578577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1071852204",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.895954,
+          66.366936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1125698223",
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.726879,
+          66.503384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1198871395",
+        "name": {
+          "fi": "S-market Talvitie"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.s-kaupat.fi/myymala/s-market-talvitie-rovaniemi/726407211",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.701141,
+          66.521144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1331475729",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.766811,
+          66.502275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1478560904",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.482943,
+          66.646551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1478678922",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.488784,
+          66.644885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1479335490",
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.541427,
+          66.62116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1479880354",
+        "name": {
+          "fi": "Hawu"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.611297,
+          66.561326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/154893240",
+        "name": {
+          "fi": "K-Supermarket"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-supermarket-kauppatori",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.715139,
+          66.500787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/164458602",
+        "name": {
+          "fi": "K-Market Viirinkangas"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-viirinkangas",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 12:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.696671,
+          66.485197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/164458606",
+        "name": {
+          "fi": "Lidl"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.lidl.fi/s/fi-FI/myym%C3%A4l%C3%A4t/rovaniemi/oijustie-2/",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.693697,
+          66.491358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/182581431",
+        "name": {
+          "fi": "Prisma"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.s-kaupat.fi/myymala/prisma-rovaniemi/552112880",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 12:00-18:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.687588,
+          66.492461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/182602606",
+        "name": {
+          "fi": "Lidl"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.lidl.fi/s/fi-FI/myym%C3%A4l%C3%A4t/rovaniemi/saarenkylae/pulkamontie-2/",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.759546,
+          66.517255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/200205920",
+        "name": {
+          "fi": "K-Market Nivavaara"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-nivavaara",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.824917,
+          66.530956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/232046104",
+        "name": {
+          "fi": "Rovaniemen Sotilaskoti"
+        },
+        "category": "cafe",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.793622,
+          66.55619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/258170800",
+        "name": {
+          "fi": "Apukka Resort - Glass Igloos Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://apukkaresort.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.014946,
+          66.578305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/282114558",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.187526,
+          66.619466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/31498425",
+        "name": {
+          "fi": "McDonald's"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.711231,
+          66.49553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/318995763",
+        "name": {
+          "fi": "K-Market"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-hessuntori",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.804819,
+          66.488044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/319007393",
+        "name": {
+          "fi": "K-Market Saarenkylä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-saarenkyla",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 09:00-09:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.784946,
+          66.516279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/319012144",
+        "name": {
+          "fi": "K-Market"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-pekantori",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.641667,
+          66.510142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/347207217",
+        "name": {
+          "fi": "Jyrhämänkujan laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73387,
+          66.492694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/347207392",
+        "name": {
+          "fi": "Kukanniemen laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.746292,
+          66.484048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/379148075",
+        "name": {
+          "fi": "Ounaspaviljonki"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "opening_hours": "summer",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.745744,
+          66.518813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/417897897",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466032,
+          66.645731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/45265473",
+        "name": {
+          "fi": "K-Citymarket Rovaniemi"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-citymarket-rovaniemi",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.753698,
+          66.518546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/45265480",
+        "name": {
+          "fi": "K-Market Sinettä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-sinetta",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.465607,
+          66.644276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/50001459",
+        "name": {
+          "fi": "K-Market Pöykkölä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-poykkola",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.755577,
+          66.474828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/50460063",
+        "name": {
+          "fi": "K-Supermarket Ounasvaara"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-supermarket-ounasvaara",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 08:00-22:00; Su 10:00-21:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.753592,
+          66.497907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/638757507",
+        "name": {
+          "fi": "Santa Claus Holiday Village Reception"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "http://www.schv.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.844883,
+          66.54307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/638826900",
+        "name": {
+          "fi": "Piparina",
+          "en": "Piparina - day cabins & dining"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://piparina.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.850507,
+          66.54383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/763957383",
+        "name": {
+          "fi": "Napapiirin Saarituvat"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://saarituvat.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846318,
+          66.516726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/799809589",
+        "name": {
+          "fi": "K-Market Syväsenvaara"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.k-ruoka.fi/kauppa/k-market-syvasenvaara",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.786543,
+          66.529911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/827678531",
+        "name": {
+          "fi": "S-market Saarenkylä"
+        },
+        "category": "shop",
+        "source": "osm",
+        "url": "https://www.s-kaupat.fi/myymala/s-market-saarenkyla/720563139",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-22:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.782788,
+          66.516041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/894725482",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.745874,
+          66.519234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/901591632",
+        "name": {
+          "fi": "Minimani Rovaniemi"
+        },
+        "category": "shop",
+        "source": "osm",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 09:00-23:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.706188,
+          66.495848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434094",
+        "name": {
+          "fi": "Santa's Igloos Arctic Circle"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.santashotels.fi/fi/hotellit/igloos-arctic-circle",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.861226,
+          66.54325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434096",
+        "name": {
+          "fi": "Glass Resort"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://glassresort.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.851194,
+          66.54121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434097",
+        "name": {
+          "fi": "Glass Resort Restaurant"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://glassresort.fi/glass-resort-restaurant-1",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.849958,
+          66.541122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434099",
+        "name": {
+          "fi": "Nova Skyland Restaurant"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://novaskylandrestaurant.com",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.847944,
+          66.5414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434100",
+        "name": {
+          "fi": "Nova Skyland Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.nova-trip.com/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.847718,
+          66.540991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434109",
+        "name": {
+          "fi": "Restaurant Santa's Cuisine"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.santaclausholidayvillage.fi/en/restaurants/santas-cuisine-en-us/",
+        "opening_hours": "Nov-Mar: Mo-Su 07:30-16:00",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.840955,
+          66.542057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434112",
+        "name": {
+          "fi": "Lapland Restaurant Kotahovi"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://www.laplandrestaurant.fi/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.847488,
+          66.542678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434128",
+        "name": {
+          "fi": "Santa's Salmon Place",
+          "en": "Santa's Salmon Place"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://santas-salmon-place.com",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.845583,
+          66.543805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995434145",
+        "name": {
+          "fi": "Metsäkartano",
+          "en": "Restaurant Forest Manor"
+        },
+        "category": "restaurant",
+        "source": "osm",
+        "url": "https://santaclausvillage.info/services/restaurant-and-bars/restaurant-forest-manor-metsakartano",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.856956,
+          66.543938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995444703",
+        "name": {
+          "fi": "Arctic TreeHouse Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.801498,
+          66.538671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995444704",
+        "name": {
+          "fi": "Arctic TreeHouse Hotel"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://arctictreehousehotel.com/",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.800345,
+          66.539369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/995586351",
+        "name": {
+          "en": "Hotel Metsähirvas"
+        },
+        "category": "accommodation",
+        "source": "osm",
+        "url": "https://www.metsahirvas.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.417602,
+          66.41632
+        ]
+      }
+    }
+  ]
+}
