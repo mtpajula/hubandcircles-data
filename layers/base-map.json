@@ -1,0 +1,26 @@
+{
+  "id": "base-map",
+  "name": {
+    "fi": "Pohjakartta",
+    "en": "Base map"
+  },
+  "slot": "base",
+  "source": {
+    "method": "wms_external"
+  },
+  "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+  "wms": {
+    "version": "1.1.1",
+    "layers": "Pohjakartta",
+    "format": "image/png",
+    "srs": "EPSG:3857"
+  },
+  "visible_in": {
+    "themes": [
+      "mtb"
+    ],
+    "routes": []
+  },
+  "default_on": true,
+  "attribution": "© Rovaniemen kaupunki"
+}

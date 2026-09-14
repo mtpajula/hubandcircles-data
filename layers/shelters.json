@@ -1,0 +1,25 @@
+{
+  "id": "shelters",
+  "name": {
+    "fi": "Laavut ja tuvat",
+    "en": "Shelters and huts"
+  },
+  "slot": "points",
+  "source": {
+    "method": "services",
+    "categories": [
+      "lean_to",
+      "hut"
+    ]
+  },
+  "visible_in": {
+    "themes": [
+      "winter",
+      "touring",
+      "mtb"
+    ],
+    "routes": []
+  },
+  "default_on": true,
+  "attribution": "© OpenStreetMap contributors"
+}

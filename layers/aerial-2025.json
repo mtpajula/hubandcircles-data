@@ -1,0 +1,24 @@
+{
+  "id": "aerial-2025",
+  "name": {
+    "fi": "Ilmakuva 2025",
+    "en": "Aerial image 2025"
+  },
+  "slot": "raster",
+  "source": {
+    "method": "wms_external"
+  },
+  "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+  "wms": {
+    "version": "1.1.1",
+    "layers": "Ilmakuva 2025",
+    "format": "image/png",
+    "srs": "EPSG:3857"
+  },
+  "visible_in": {
+    "themes": "*",
+    "routes": []
+  },
+  "default_on": false,
+  "attribution": "© Rovaniemen kaupunki"
+}

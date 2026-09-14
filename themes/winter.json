@@ -15,7 +15,9 @@
     "highlight": "#E8A33D"
   },
   "dark": true,
-  "default_layers": [],
+  "default_layers": [
+    "shelters"
+  ],
   "presentation": {
     "key_figures": [
       "length",
@@ -37,5 +39,6 @@
       "hut",
       "lean_to"
     ]
-  }
+  },
+  "basemap": "toner"
 }

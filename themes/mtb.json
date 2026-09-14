@@ -15,7 +15,9 @@
     "highlight": "#E8A33D"
   },
   "dark": false,
-  "default_layers": [],
+  "default_layers": [
+    "shelters"
+  ],
   "presentation": {
     "key_figures": [
       "itrs_technical",
@@ -37,5 +39,6 @@
       "water",
       "lean_to"
     ]
-  }
+  },
+  "basemap": "base-map"
 }

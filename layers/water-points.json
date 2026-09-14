@@ -1,0 +1,21 @@
+{
+  "id": "water-points",
+  "name": {
+    "fi": "Juomavesi ja wc",
+    "en": "Water and toilets"
+  },
+  "slot": "points",
+  "source": {
+    "method": "services",
+    "categories": [
+      "water",
+      "toilet"
+    ]
+  },
+  "visible_in": {
+    "themes": "*",
+    "routes": []
+  },
+  "default_on": false,
+  "attribution": "© OpenStreetMap contributors"
+}

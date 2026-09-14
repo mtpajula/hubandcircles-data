@@ -1,0 +1,25 @@
+{
+  "id": "orthophoto",
+  "name": {
+    "fi": "Ortokuva",
+    "en": "Orthophoto"
+  },
+  "slot": "raster",
+  "source": {
+    "method": "wms_external"
+  },
+  "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+  "wms": {
+    "version": "1.1.1",
+    "layers": "Ortokuva_MML",
+    "format": "image/png",
+    "srs": "EPSG:3857"
+  },
+  "visible_in": {
+    "themes": "*",
+    "routes": []
+  },
+  "default_on": false,
+  "opacity": 1,
+  "attribution": "© Rovaniemen kaupunki · ortokuva © Maanmittauslaitos"
+}

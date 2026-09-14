@@ -15,7 +15,9 @@
     "highlight": "#E8A33D"
   },
   "dark": false,
-  "default_layers": [],
+  "default_layers": [
+    "shelters"
+  ],
   "presentation": {
     "key_figures": [
       "length",
@@ -38,5 +40,6 @@
       "shop",
       "lean_to"
     ]
-  }
+  },
+  "basemap": "guide-map"
 }

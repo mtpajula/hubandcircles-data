@@ -37,5 +37,6 @@
       "cafe",
       "bike_repair"
     ]
-  }
+  },
+  "basemap": "guide-map"
 }
