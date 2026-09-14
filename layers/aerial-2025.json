@@ -20,5 +20,6 @@
     "routes": []
   },
   "default_on": false,
-  "attribution": "© Rovaniemen kaupunki"
+  "attribution": "© Rovaniemen kaupunki",
+  "minzoom": 12
 }
