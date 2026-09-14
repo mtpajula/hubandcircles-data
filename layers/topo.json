@@ -1,0 +1,33 @@
+{
+  "id": "topo",
+  "name": {
+    "fi": "Maastokartta",
+    "en": "Topographic map"
+  },
+  "slot": "base",
+  "source": {
+    "method": "mml_corridor",
+    "layer": "maastokartta",
+    "buffers_m": {
+      "12": 4000,
+      "13": 3000,
+      "14": 1500,
+      "15": 800,
+      "16": 400
+    },
+    "version": 1
+  },
+  "publish_format": "xyz",
+  "visible_in": {
+    "themes": [
+      "mtb",
+      "winter",
+      "touring"
+    ],
+    "routes": []
+  },
+  "default_on": false,
+  "minzoom": 12,
+  "maxzoom": 16,
+  "attribution": "© Maanmittauslaitos, CC BY 4.0"
+}
