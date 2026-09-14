@@ -2,6 +2,7 @@
   "name": { "fi": "Napa ja piirit", "en": "Hub & Circles" },
   "subtitle": { "fi": "pyöräillen Rovaniemen seudulla", "en": "cycling around Rovaniemi" },
   "area": [25.40, 66.30, 26.20, 66.70],
+  "municipality": "Rovaniemi",
   "languages": ["fi", "en"],
   "default_language": "fi",
   "default_theme": "gravel",
