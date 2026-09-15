@@ -1,89 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="hubandcircles-manager">
   <trk>
     <name>Ounasvaara Trail Center - Mini Trail Park</name>
     <trkseg>
       <trkpt lat="66.508069" lon="25.791108">
+        <ele>86.4</ele>
       </trkpt>
       <trkpt lat="66.5081" lon="25.791312">
+        <ele>86.2</ele>
       </trkpt>
       <trkpt lat="66.507809" lon="25.792437">
+        <ele>89.7</ele>
       </trkpt>
       <trkpt lat="66.507749" lon="25.792556">
+        <ele>90.7</ele>
       </trkpt>
       <trkpt lat="66.507682" lon="25.792565">
+        <ele>90.8</ele>
       </trkpt>
     </trkseg>
     <trkseg>
       <trkpt lat="66.508069" lon="25.791097">
+        <ele>86.4</ele>
       </trkpt>
       <trkpt lat="66.508069" lon="25.790791">
+        <ele>87.2</ele>
       </trkpt>
       <trkpt lat="66.508152" lon="25.790511">
+        <ele>86.4</ele>
       </trkpt>
       <trkpt lat="66.508198" lon="25.791022">
+        <ele>85.8</ele>
       </trkpt>
       <trkpt lat="66.508149" lon="25.791139">
+        <ele>86.1</ele>
       </trkpt>
       <trkpt lat="66.508069" lon="25.791101">
+        <ele>86.4</ele>
       </trkpt>
     </trkseg>
     <trkseg>
       <trkpt lat="66.507683" lon="25.792562">
+        <ele>90.8</ele>
       </trkpt>
       <trkpt lat="66.507694" lon="25.792227">
+        <ele>89.9</ele>
       </trkpt>
       <trkpt lat="66.507723" lon="25.792203">
+        <ele>89.8</ele>
       </trkpt>
       <trkpt lat="66.50778" lon="25.792259">
+        <ele>89.6</ele>
       </trkpt>
       <trkpt lat="66.507801" lon="25.792225">
+        <ele>89.2</ele>
       </trkpt>
       <trkpt lat="66.507782" lon="25.791912">
+        <ele>88.4</ele>
       </trkpt>
       <trkpt lat="66.507962" lon="25.791569">
+        <ele>86.7</ele>
       </trkpt>
       <trkpt lat="66.507995" lon="25.791244">
+        <ele>86.7</ele>
       </trkpt>
       <trkpt lat="66.508069" lon="25.791108">
+        <ele>86.4</ele>
       </trkpt>
     </trkseg>
     <trkseg>
       <trkpt lat="66.50781" lon="25.792435">
+        <ele>89.7</ele>
       </trkpt>
       <trkpt lat="66.50788" lon="25.792325">
+        <ele>88.5</ele>
       </trkpt>
       <trkpt lat="66.508063" lon="25.791618">
+        <ele>86.3</ele>
       </trkpt>
       <trkpt lat="66.508133" lon="25.791268">
+        <ele>86.2</ele>
       </trkpt>
       <trkpt lat="66.508115" lon="25.791149">
+        <ele>86.2</ele>
       </trkpt>
     </trkseg>
     <trkseg>
       <trkpt lat="66.507654" lon="25.792524">
+        <ele>90.6</ele>
       </trkpt>
       <trkpt lat="66.50767" lon="25.792664">
+        <ele>89.6</ele>
       </trkpt>
       <trkpt lat="66.50777" lon="25.792766">
+        <ele>89.8</ele>
       </trkpt>
       <trkpt lat="66.507928" lon="25.792334">
+        <ele>86.5</ele>
       </trkpt>
       <trkpt lat="66.507928" lon="25.792091">
+        <ele>87.6</ele>
       </trkpt>
     </trkseg>
     <trkseg>
       <trkpt lat="66.508069" lon="25.791101">
+        <ele>86.4</ele>
       </trkpt>
       <trkpt lat="66.508021" lon="25.791084">
+        <ele>87.0</ele>
       </trkpt>
       <trkpt lat="66.507963" lon="25.791154">
+        <ele>87.3</ele>
       </trkpt>
       <trkpt lat="66.507728" lon="25.792127">
+        <ele>89.5</ele>
       </trkpt>
       <trkpt lat="66.507641" lon="25.792319">
+        <ele>90.7</ele>
       </trkpt>
       <trkpt lat="66.507681" lon="25.792562">
+        <ele>90.8</ele>
       </trkpt>
     </trkseg>
   </trk>

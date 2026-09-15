@@ -11,6 +11,8 @@
     "summer"
   ],
   "track": "track.gpx",
+  "elevation_source": "mml_dem",
+  "segments": [],
   "sections": [
     {
       "type": "text",
@@ -21,5 +23,6 @@
   ],
   "media": {},
   "lipas_id": 619226,
-  "maintainer": "municipal"
+  "maintainer": "municipal",
+  "non_municipal_reasons": []
 }

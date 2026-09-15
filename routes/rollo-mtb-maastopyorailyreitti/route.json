@@ -10,6 +10,7 @@
     "summer"
   ],
   "track": "track.gpx",
+  "elevation_source": "mml_dem",
   "cover_image": "media/img-0906.jpeg",
   "hardest_section": {
     "media": "media/img-0906.jpeg",

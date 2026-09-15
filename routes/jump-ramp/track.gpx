@@ -1,89 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="hubandcircles-manager">
   <trk>
-    <name>Jump Ramp</name>
+    <name>Ounasvaara Bike Park - Linkka</name>
     <trkseg>
       <trkpt lat="66.502108" lon="25.787326">
+        <ele>202.7</ele>
       </trkpt>
       <trkpt lat="66.502228" lon="25.787393">
+        <ele>200.3</ele>
       </trkpt>
       <trkpt lat="66.502354" lon="25.787153">
+        <ele>200.1</ele>
       </trkpt>
       <trkpt lat="66.502408" lon="25.787139">
+        <ele>199.4</ele>
       </trkpt>
       <trkpt lat="66.502571" lon="25.787294">
+        <ele>197.3</ele>
       </trkpt>
       <trkpt lat="66.502659" lon="25.787196">
+        <ele>196.6</ele>
       </trkpt>
       <trkpt lat="66.502939" lon="25.788383">
+        <ele>189.9</ele>
       </trkpt>
       <trkpt lat="66.503099" lon="25.789951">
+        <ele>185.8</ele>
       </trkpt>
       <trkpt lat="66.503253" lon="25.790641">
+        <ele>183.0</ele>
       </trkpt>
       <trkpt lat="66.50325" lon="25.791677">
+        <ele>182.2</ele>
       </trkpt>
       <trkpt lat="66.503289" lon="25.791726">
+        <ele>181.2</ele>
       </trkpt>
       <trkpt lat="66.50337" lon="25.791555">
+        <ele>179.1</ele>
       </trkpt>
       <trkpt lat="66.503427" lon="25.79159">
+        <ele>177.6</ele>
       </trkpt>
       <trkpt lat="66.503494" lon="25.792233">
+        <ele>175.0</ele>
       </trkpt>
       <trkpt lat="66.50356" lon="25.792301">
+        <ele>173.6</ele>
       </trkpt>
       <trkpt lat="66.503633" lon="25.792831">
+        <ele>171.5</ele>
       </trkpt>
       <trkpt lat="66.503807" lon="25.793415">
+        <ele>168.0</ele>
       </trkpt>
       <trkpt lat="66.503916" lon="25.79455">
+        <ele>164.2</ele>
       </trkpt>
       <trkpt lat="66.504107" lon="25.795358">
+        <ele>160.6</ele>
       </trkpt>
       <trkpt lat="66.504252" lon="25.795693">
+        <ele>157.9</ele>
       </trkpt>
       <trkpt lat="66.504267" lon="25.796394">
+        <ele>156.7</ele>
       </trkpt>
       <trkpt lat="66.504545" lon="25.79833">
+        <ele>149.7</ele>
       </trkpt>
       <trkpt lat="66.504647" lon="25.799577">
+        <ele>145.8</ele>
       </trkpt>
       <trkpt lat="66.504648" lon="25.80039">
+        <ele>144.0</ele>
       </trkpt>
       <trkpt lat="66.504708" lon="25.800638">
+        <ele>142.4</ele>
       </trkpt>
       <trkpt lat="66.504762" lon="25.800637">
+        <ele>140.8</ele>
       </trkpt>
       <trkpt lat="66.504797" lon="25.800556">
+        <ele>139.7</ele>
       </trkpt>
       <trkpt lat="66.504906" lon="25.799284">
+        <ele>137.9</ele>
       </trkpt>
       <trkpt lat="66.505292" lon="25.797783">
+        <ele>128.8</ele>
       </trkpt>
       <trkpt lat="66.505374" lon="25.797043">
+        <ele>127.1</ele>
       </trkpt>
       <trkpt lat="66.505584" lon="25.796148">
+        <ele>121.6</ele>
       </trkpt>
       <trkpt lat="66.505653" lon="25.795087">
+        <ele>119.5</ele>
       </trkpt>
       <trkpt lat="66.505788" lon="25.794498">
+        <ele>116.7</ele>
       </trkpt>
       <trkpt lat="66.506196" lon="25.793363">
+        <ele>109.5</ele>
       </trkpt>
       <trkpt lat="66.506248" lon="25.793054">
+        <ele>108.3</ele>
       </trkpt>
       <trkpt lat="66.506359" lon="25.792885">
+        <ele>105.2</ele>
       </trkpt>
       <trkpt lat="66.506517" lon="25.792274">
+        <ele>101.8</ele>
       </trkpt>
       <trkpt lat="66.506723" lon="25.791055">
+        <ele>98.3</ele>
       </trkpt>
       <trkpt lat="66.506715" lon="25.790663">
+        <ele>98.6</ele>
       </trkpt>
       <trkpt lat="66.50703" lon="25.789448">
+        <ele>94.1</ele>
       </trkpt>
       <trkpt lat="66.507103" lon="25.788815">
+        <ele>93.0</ele>
       </trkpt>
     </trkseg>
   </trk>
